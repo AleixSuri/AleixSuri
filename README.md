@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">🛜 currently working on my own portfolio<br>👨🏼‍🎓 studying computer science at Universitat de Girona</p>
+<h3 align="left">🛜 Currently working on my own portfolio</h3>
+<h3 align="left">👨🏼‍🎓 Studying computer science at Universitat de Girona</h3>
 
 ###
 
